@@ -1,0 +1,18 @@
+date: 05/02/2022
+time_cards:
+  - project_area: 2862e2-000
+    phase: Vehicle Full Database
+    days:
+      - monday
+      - tuesday
+      - wednesday
+  - project_area: Enquiries
+    phase: External API Platform
+    l2_role: Continuous Improvement
+    days:
+      - thursday
+      - friday
+#  - project_area: Out of Office
+#    phase: Not working
+#    days:
+#      - monday
